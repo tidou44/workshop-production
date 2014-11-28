@@ -1,4 +1,4 @@
 workshop-production
 ===================
 
-Salut
+Production workshop project
